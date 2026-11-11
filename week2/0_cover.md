@@ -2,7 +2,7 @@ Assignment 12 The Dirty Ledger
 
 Name: Haniya Ismail
 ERP:37313
-
+snapshot code: 38a3866
 Files in this folder:
 0_cover.md
 l_attempt.md (diagnosis, decisions, hash)
